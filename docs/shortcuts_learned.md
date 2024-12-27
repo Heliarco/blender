@@ -4,7 +4,12 @@ Tab: Jump between object and edit mode
 
 
 Both Modes:
-G: Grab / mode
+G: Grab / mode:
+    Z: to move along Z axis only
+    Shift + Z: To move along the plane perpendicular to the Z Axis.
+    X/Y: ... Same as above
+
+
 R: Rotate
 S: Scale
 
@@ -26,6 +31,7 @@ Shrink, will scale based on normals.
 Scale, will use the transform pivot point
 
 
-Inset
+Inset:
+I: Inset
 
 
